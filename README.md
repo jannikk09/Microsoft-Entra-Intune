@@ -11,12 +11,7 @@ Die Skripte sind optimiert für **PowerShell 7+** und nutzen moderne Microsoft G
 
 1. [Über dieses Repository](#-über-dieses-repository)  
 2. [Features](#-features)  
-3. [Repositorystruktur](#-repositorystruktur)  
-4. [Voraussetzungen](#-voraussetzungen)  
-5. [Installation](#-installation)  
-6. [Beispiel: Skript ausführen](#-beispiel-skript-ausführen)  
-7. [Contributing](#-contributing)  
-8. [Lizenz](#-lizenz)
+3. [Contributing](#-contributing)  
 
 ---
 
@@ -43,4 +38,16 @@ Die Skripte decken unter anderem folgende Bereiche ab:
 - Verwaltung von Win32Apps inkl. Detection/Remediation  
 - Moderne Microsoft Graph API (v1.0 & beta)  
 - Modularer Aufbau  
-- Voll kompatibel mit **PowerShell 7**  
+- Voll kompatibel mit **PowerShell 7**
+
+
+---
+
+## 🤝 Contributing
+
+Beiträge sind willkommen!
+Bitte:
+
+- gute Dokumentation
+- einheitliche Formatierung
+- keine sensiblen Daten committen
